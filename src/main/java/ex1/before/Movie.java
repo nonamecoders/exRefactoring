@@ -1,4 +1,4 @@
-package ex1;
+package ex1.before;
 
 public class Movie {
     public static final int CHILDREN = 2;
